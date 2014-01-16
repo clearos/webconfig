@@ -1,0 +1,402 @@
+[submodule "framework"]
+	path = framework
+	url = git@github.com:clearos/framework.git
+[submodule "apps/account_import"]
+	path = apps/account_import
+	url = git@github.com:clearos/app-account-import.git
+[submodule "apps/accounts"]
+	path = apps/accounts
+	url = git@github.com:clearos/app-accounts.git
+[submodule "apps/administrators"]
+	path = apps/administrators
+	url = git@github.com:clearos/app-administrators.git
+[submodule "apps/antiphishing"]
+	path = apps/antiphishing
+	url = git@github.com:clearos/app-antiphishing.git
+[submodule "apps/antivirus"]
+	path = apps/antivirus
+	url = git@github.com:clearos/app-antivirus.git
+[submodule "apps/backuppc"]
+	path = apps/backuppc
+	url = git@github.com:clearos/app-backuppc.git
+[submodule "apps/bandwidth"]
+	path = apps/bandwidth
+	url = git@github.com:clearos/app-bandwidth.git
+[submodule "apps/bandwidth_viewer"]
+	path = apps/bandwidth_viewer
+	url = git@github.com:clearos/app-bandwidth-viewer.git
+[submodule "apps/base"]
+	path = apps/base
+	url = git@github.com:clearos/app-base.git
+[submodule "apps/certificate_manager"]
+	path = apps/certificate_manager
+	url = git@github.com:clearos/app-certificate-manager.git
+[submodule "apps/clearcenter"]
+	path = apps/clearcenter
+	url = git@github.com:clearos/app-clearcenter.git
+[submodule "apps/clearsync"]
+	path = apps/clearsync
+	url = git@github.com:clearos/app-clearsync.git
+[submodule "apps/configuration_backup"]
+	path = apps/configuration_backup
+	url = git@github.com:clearos/app-configuration-backup.git
+[submodule "apps/contact_extension"]
+	path = apps/contact_extension
+	url = git@github.com:clearos/app-contact-extension.git
+[submodule "apps/content_filter"]
+	path = apps/content_filter
+	url = git@github.com:clearos/app-content-filter.git
+[submodule "apps/dashboard"]
+	path = apps/dashboard
+	url = git@github.com:clearos/app-dashboard.git
+[submodule "apps/date"]
+	path = apps/date
+	url = git@github.com:clearos/app-date.git
+[submodule "apps/devel"]
+	path = apps/devel
+	url = git@github.com:clearos/app-devel.git
+[submodule "apps/dhcp"]
+	path = apps/dhcp
+	url = git@github.com:clearos/app-dhcp.git
+[submodule "apps/disk_usage"]
+	path = apps/disk_usage
+	url = git@github.com:clearos/app-disk-usage.git
+[submodule "apps/dmz"]
+	path = apps/dmz
+	url = git@github.com:clearos/app-dmz.git
+[submodule "apps/dns"]
+	path = apps/dns
+	url = git@github.com:clearos/app-dns.git
+[submodule "apps/dropbox"]
+	path = apps/dropbox
+	url = git@github.com:clearos/app-dropbox.git
+[submodule "apps/edition"]
+	path = apps/edition
+	url = git@github.com:clearos/app-edition.git
+[submodule "apps/egress_firewall"]
+	path = apps/egress_firewall
+	url = git@github.com:clearos/app-egress-firewall.git
+[submodule "apps/ether_wake"]
+	path = apps/ether_wake
+	url = git@github.com:clearos/app-ether-wake.git
+[submodule "apps/events"]
+	path = apps/events
+	url = git@github.com:clearos/app-events.git
+[submodule "apps/file_scan"]
+	path = apps/file_scan
+	url = git@github.com:clearos/app-file-scan.git
+[submodule "apps/firewall"]
+	path = apps/firewall
+	url = git@github.com:clearos/app-firewall.git
+[submodule "apps/firewall_custom"]
+	path = apps/firewall_custom
+	url = git@github.com:clearos/app-firewall-custom.git
+[submodule "apps/flexshare"]
+	path = apps/flexshare
+	url = git@github.com:clearos/app-flexshare.git
+[submodule "apps/ftp"]
+	path = apps/ftp
+	url = git@github.com:clearos/app-ftp.git
+[submodule "apps/ftp_plugin"]
+	path = apps/ftp_plugin
+	url = git@github.com:clearos/app-ftp-plugin.git
+[submodule "apps/graphical_console"]
+	path = apps/graphical_console
+	url = git@github.com:clearos/app-graphical-console.git
+[submodule "apps/greylisting"]
+	path = apps/greylisting
+	url = git@github.com:clearos/app-greylisting.git
+[submodule "apps/groups"]
+	path = apps/groups
+	url = git@github.com:clearos/app-groups.git
+[submodule "apps/home_reports"]
+	path = apps/home_reports
+	url = git@github.com:clearos/app-home-reports.git
+[submodule "apps/imap"]
+	path = apps/imap
+	url = git@github.com:clearos/app-imap.git
+[submodule "apps/imap_plugin"]
+	path = apps/imap_plugin
+	url = git@github.com:clearos/app-imap-plugin.git
+[submodule "apps/incoming_firewall"]
+	path = apps/incoming_firewall
+	url = git@github.com:clearos/app-incoming-firewall.git
+[submodule "apps/intrusion_detection"]
+	path = apps/intrusion_detection
+	url = git@github.com:clearos/app-intrusion-detection.git
+[submodule "apps/intrusion_prevention"]
+	path = apps/intrusion_prevention
+	url = git@github.com:clearos/app-intrusion-prevention.git
+[submodule "apps/ipsec"]
+	path = apps/ipsec
+	url = git@github.com:clearos/app-ipsec.git
+[submodule "apps/language"]
+	path = apps/language
+	url = git@github.com:clearos/app-language.git
+[submodule "apps/ldap"]
+	path = apps/ldap
+	url = git@github.com:clearos/app-ldap.git
+[submodule "apps/log_viewer"]
+	path = apps/log_viewer
+	url = git@github.com:clearos/app-log-viewer.git
+[submodule "apps/mail"]
+	path = apps/mail
+	url = git@github.com:clearos/app-mail.git
+[submodule "apps/mail_antispam"]
+	path = apps/mail_antispam
+	url = git@github.com:clearos/app-mail-antispam.git
+[submodule "apps/mail_antivirus"]
+	path = apps/mail_antivirus
+	url = git@github.com:clearos/app-mail-antivirus.git
+[submodule "apps/mail_extension"]
+	path = apps/mail_extension
+	url = git@github.com:clearos/app-mail-extension.git
+[submodule "apps/mail_filter"]
+	path = apps/mail_filter
+	url = git@github.com:clearos/app-mail-filter.git
+[submodule "apps/mail_notification"]
+	path = apps/mail_notification
+	url = git@github.com:clearos/app-mail-notification.git
+[submodule "apps/mail_report"]
+	path = apps/mail_report
+	url = git@github.com:clearos/app-mail-report.git
+[submodule "apps/mail_retrieval"]
+	path = apps/mail_retrieval
+	url = git@github.com:clearos/app-mail-retrieval.git
+[submodule "apps/mail_routing"]
+	path = apps/mail_routing
+	url = git@github.com:clearos/app-mail-routing.git
+[submodule "apps/mail_settings"]
+	path = apps/mail_settings
+	url = git@github.com:clearos/app-mail-settings.git
+[submodule "apps/marketplace"]
+	path = apps/marketplace
+	url = git@github.com:clearos/app-marketplace.git
+[submodule "apps/mdns"]
+	path = apps/mdns
+	url = git@github.com:clearos/app-mdns.git
+[submodule "apps/mode"]
+	path = apps/mode
+	url = git@github.com:clearos/app-mode.git
+[submodule "apps/multiwan"]
+	path = apps/multiwan
+	url = git@github.com:clearos/app-multiwan.git
+[submodule "apps/mysql"]
+	path = apps/mysql
+	url = git@github.com:clearos/app-mysql.git
+[submodule "apps/nat_firewall"]
+	path = apps/nat_firewall
+	url = git@github.com:clearos/app-nat-firewall.git
+[submodule "apps/network"]
+	path = apps/network
+	url = git@github.com:clearos/app-network.git
+[submodule "apps/network_detail_report"]
+	path = apps/network_detail_report
+	url = git@github.com:clearos/app-network-detail-report.git
+[submodule "apps/network_report"]
+	path = apps/network_report
+	url = git@github.com:clearos/app-network-report.git
+[submodule "apps/network_visualiser"]
+	path = apps/network_visualiser
+	url = git@github.com:clearos/app-network-visualiser.git
+[submodule "apps/ntp"]
+	path = apps/ntp
+	url = git@github.com:clearos/app-ntp.git
+[submodule "apps/openldap"]
+	path = apps/openldap
+	url = git@github.com:clearos/app-openldap.git
+[submodule "apps/openldap_directory"]
+	path = apps/openldap_directory
+	url = git@github.com:clearos/app-openldap-directory.git
+[submodule "apps/openvpn"]
+	path = apps/openvpn
+	url = git@github.com:clearos/app-openvpn.git
+[submodule "apps/openvpn_plugin"]
+	path = apps/openvpn_plugin
+	url = git@github.com:clearos/app-openvpn-plugin.git
+[submodule "apps/organization"]
+	path = apps/organization
+	url = git@github.com:clearos/app-organization.git
+[submodule "apps/owncloud"]
+	path = apps/owncloud
+	url = git@github.com:clearos/app-owncloud.git
+[submodule "apps/owncloud_extension"]
+	path = apps/owncloud_extension
+	url = git@github.com:clearos/app-owncloud-extension.git
+[submodule "apps/password_policies"]
+	path = apps/password_policies
+	url = git@github.com:clearos/app-password-policies.git
+[submodule "apps/photo_organizer"]
+	path = apps/photo_organizer
+	url = git@github.com:clearos/app-photo-organizer.git
+[submodule "apps/php"]
+	path = apps/php
+	url = git@github.com:clearos/app-php.git
+[submodule "apps/plex"]
+	path = apps/plex
+	url = git@github.com:clearos/app-plex.git
+[submodule "apps/policy_manager"]
+	path = apps/policy_manager
+	url = git@github.com:clearos/app-policy-manager.git
+[submodule "apps/port_forwarding"]
+	path = apps/port_forwarding
+	url = git@github.com:clearos/app-port-forwarding.git
+[submodule "apps/pptpd"]
+	path = apps/pptpd
+	url = git@github.com:clearos/app-pptpd.git
+[submodule "apps/pptpd_plugin"]
+	path = apps/pptpd_plugin
+	url = git@github.com:clearos/app-pptpd-plugin.git
+[submodule "apps/print_server"]
+	path = apps/print_server
+	url = git@github.com:clearos/app-print-server.git
+[submodule "apps/print_server_plugin"]
+	path = apps/print_server_plugin
+	url = git@github.com:clearos/app-print-server-plugin.git
+[submodule "apps/process_viewer"]
+	path = apps/process_viewer
+	url = git@github.com:clearos/app-process-viewer.git
+[submodule "apps/protocol_filter"]
+	path = apps/protocol_filter
+	url = git@github.com:clearos/app-protocol-filter.git
+[submodule "apps/proxy_report"]
+	path = apps/proxy_report
+	url = git@github.com:clearos/app-proxy-report.git
+[submodule "apps/qos"]
+	path = apps/qos
+	url = git@github.com:clearos/app-qos.git
+[submodule "apps/radius"]
+	path = apps/radius
+	url = git@github.com:clearos/app-radius.git
+[submodule "apps/raid"]
+	path = apps/raid
+	url = git@github.com:clearos/app-raid.git
+[submodule "apps/registration"]
+	path = apps/registration
+	url = git@github.com:clearos/app-registration.git
+[submodule "apps/reports"]
+	path = apps/reports
+	url = git@github.com:clearos/app-reports.git
+[submodule "apps/reports_database"]
+	path = apps/reports_database
+	url = git@github.com:clearos/app-reports-database.git
+[submodule "apps/resource_report"]
+	path = apps/resource_report
+	url = git@github.com:clearos/app-resource-report.git
+[submodule "apps/samba"]
+	path = apps/samba
+	url = git@github.com:clearos/app-samba.git
+[submodule "apps/samba_common"]
+	path = apps/samba_common
+	url = git@github.com:clearos/app-samba-common.git
+[submodule "apps/samba_extension"]
+	path = apps/samba_extension
+	url = git@github.com:clearos/app-samba-extension.git
+[submodule "apps/services"]
+	path = apps/services
+	url = git@github.com:clearos/app-services.git
+[submodule "apps/shell_extension"]
+	path = apps/shell_extension
+	url = git@github.com:clearos/app-shell-extension.git
+[submodule "apps/simple_mode"]
+	path = apps/simple_mode
+	url = git@github.com:clearos/app-simple-mode.git
+[submodule "apps/smart_monitor"]
+	path = apps/smart_monitor
+	url = git@github.com:clearos/app-smart-monitor.git
+[submodule "apps/smtp"]
+	path = apps/smtp
+	url = git@github.com:clearos/app-smtp.git
+[submodule "apps/smtp_plugin"]
+	path = apps/smtp_plugin
+	url = git@github.com:clearos/app-smtp-plugin.git
+[submodule "apps/software_repository"]
+	path = apps/software_repository
+	url = git@github.com:clearos/app-software-repository.git
+[submodule "apps/software_updates"]
+	path = apps/software_updates
+	url = git@github.com:clearos/app-software-updates.git
+[submodule "apps/ssh_server"]
+	path = apps/ssh_server
+	url = git@github.com:clearos/app-ssh-server.git
+[submodule "apps/static_vpn_basic"]
+	path = apps/static_vpn_basic
+	url = git@github.com:clearos/app-static-vpn-basic.git
+[submodule "apps/storage"]
+	path = apps/storage
+	url = git@github.com:clearos/app-storage.git
+[submodule "apps/subversion"]
+	path = apps/subversion
+	url = git@github.com:clearos/app-subversion.git
+[submodule "apps/suva"]
+	path = apps/suva
+	url = git@github.com:clearos/app-suva.git
+[submodule "apps/system_applications"]
+	path = apps/system_applications
+	url = git@github.com:clearos/app-system-applications.git
+[submodule "apps/system_database"]
+	path = apps/system_database
+	url = git@github.com:clearos/app-system-database.git
+[submodule "apps/system_report"]
+	path = apps/system_report
+	url = git@github.com:clearos/app-system-report.git
+[submodule "apps/system_services"]
+	path = apps/system_services
+	url = git@github.com:clearos/app-system-services.git
+[submodule "apps/tasks"]
+	path = apps/tasks
+	url = git@github.com:clearos/app-tasks.git
+[submodule "apps/tiki_wiki"]
+	path = apps/tiki_wiki
+	url = git@github.com:clearos/app-tiki-wiki.git
+[submodule "apps/transmission"]
+	path = apps/transmission
+	url = git@github.com:clearos/app-transmission.git
+[submodule "apps/upnp"]
+	path = apps/upnp
+	url = git@github.com:clearos/app-upnp.git
+[submodule "apps/ups_server"]
+	path = apps/ups_server
+	url = git@github.com:clearos/app-ups-server.git
+[submodule "apps/upstream_proxy"]
+	path = apps/upstream_proxy
+	url = git@github.com:clearos/app-upstream-proxy.git
+[submodule "apps/user_certificates"]
+	path = apps/user_certificates
+	url = git@github.com:clearos/app-user-certificates.git
+[submodule "apps/user_certificates_plugin"]
+	path = apps/user_certificates_plugin
+	url = git@github.com:clearos/app-user-certificates-plugin.git
+[submodule "apps/user_dropbox"]
+	path = apps/user_dropbox
+	url = git@github.com:clearos/app-user-dropbox.git
+[submodule "apps/user_dropbox_plugin"]
+	path = apps/user_dropbox_plugin
+	url = git@github.com:clearos/app-user-dropbox-plugin.git
+[submodule "apps/user_profile"]
+	path = apps/user_profile
+	url = git@github.com:clearos/app-user-profile.git
+[submodule "apps/users"]
+	path = apps/users
+	url = git@github.com:clearos/app-users.git
+[submodule "apps/virtualbox"]
+	path = apps/virtualbox
+	url = git@github.com:clearos/app-virtualbox.git
+[submodule "apps/web_access_control"]
+	path = apps/web_access_control
+	url = git@github.com:clearos/app-web-access-control.git
+[submodule "apps/web_proxy"]
+	path = apps/web_proxy
+	url = git@github.com:clearos/app-web-proxy.git
+[submodule "apps/web_proxy_plugin"]
+	path = apps/web_proxy_plugin
+	url = git@github.com:clearos/app-web-proxy-plugin.git
+[submodule "apps/web_server"]
+	path = apps/web_server
+	url = git@github.com:clearos/app-web-server.git
+[submodule "apps/wireless"]
+	path = apps/wireless
+	url = git@github.com:clearos/app-wireless.git
+[submodule "apps/zarafa_extension"]
+	path = apps/zarafa_extension
+	url = git@github.com:clearos/app-zarafa-extension.git
