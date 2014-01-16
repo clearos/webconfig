@@ -76,9 +76,6 @@
 [submodule "apps/egress_firewall"]
 	path = apps/egress_firewall
 	url = git@github.com:clearos/app-egress-firewall.git
-[submodule "apps/ether_wake"]
-	path = apps/ether_wake
-	url = git@github.com:clearos/app-ether-wake.git
 [submodule "apps/events"]
 	path = apps/events
 	url = git@github.com:clearos/app-events.git
