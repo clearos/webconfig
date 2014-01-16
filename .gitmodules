@@ -406,3 +406,9 @@
 [submodule "themes/mobile_default"]
 	path = themes/mobile_default
 	url = git@github.com:clearos/theme-mobile-default.git
+[submodule "apps/ibvpn"]
+	path = apps/ibvpn
+	url = git@github.com:dsokoloski/clearos-ibvpn.git
+[submodule "apps/mobile_demo"]
+	path = apps/mobile_demo
+	url = git@github.com:dsokoloski/clearos-mobile-demo.git
