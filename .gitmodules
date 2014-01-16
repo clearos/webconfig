@@ -409,3 +409,6 @@
 [submodule "apps/mobile_demo"]
 	path = apps/mobile_demo
 	url = git@github.com:dsokoloski/clearos-mobile-demo.git
+[submodule "apps/ether_wake"]
+	path = apps/ether_wake
+	url = git@github.com:dsokoloski/clearos-ether-wake.git
