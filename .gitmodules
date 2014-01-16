@@ -400,3 +400,9 @@
 [submodule "apps/zarafa_extension"]
 	path = apps/zarafa_extension
 	url = git@github.com:clearos/app-zarafa-extension.git
+[submodule "themes/default"]
+	path = themes/default
+	url = git@github.com:clearos/theme-default.git
+[submodule "themes/mobile_default"]
+	path = themes/mobile_default
+	url = git@github.com:clearos/theme-mobile-default.git
