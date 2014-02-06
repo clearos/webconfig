@@ -412,3 +412,6 @@
 [submodule "apps/ether_wake"]
 	path = apps/ether_wake
 	url = git@github.com:dsokoloski/clearos-ether-wake.git
+[submodule "apps/webapp"]
+	path = apps/webapp
+	url = git@github.com:clearos/app-webapp.git
