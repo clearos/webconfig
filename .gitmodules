@@ -415,9 +415,6 @@
 [submodule "apps/webapp"]
 	path = apps/webapp
 	url = git@github.com:clearos/app-webapp.git
-[submodule "app/joomla"]
-	path = app/joomla
-	url = git@github.com:clearos/app-joomla.git
 [submodule "apps/joomla"]
 	path = apps/joomla
 	url = git@github.com:clearos/app-joomla.git
