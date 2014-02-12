@@ -418,3 +418,6 @@
 [submodule "apps/joomla"]
 	path = apps/joomla
 	url = git@github.com:clearos/app-joomla.git
+[submodule "apps/roundcubemail"]
+	path = apps/roundcubemail
+	url = git@github.com:bchambers/app-roundcubemail.git
