@@ -421,3 +421,6 @@
 [submodule "apps/roundcubemail"]
 	path = apps/roundcubemail
 	url = git@github.com:bchambers/app-roundcubemail.git
+[submodule "apps/wordpress"]
+	path = apps/wordpress
+	url = git@github.com:clearos/app-wordpress.git
