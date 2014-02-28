@@ -424,3 +424,6 @@
 [submodule "apps/wordpress"]
 	path = apps/wordpress
 	url = git@github.com:clearos/app-wordpress.git
+[submodule "apps/appfirst"]
+	path = apps/appfirst
+	url = git@github.com:bchambers/clearos-appfirst.git
