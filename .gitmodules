@@ -427,3 +427,6 @@
 [submodule "apps/appfirst"]
 	path = apps/appfirst
 	url = git@github.com:clearos/app-appfirst.git
+[submodule "themes/smartadmin"]
+	path = themes/smartadmin
+	url = git@github.com:clearos/theme-smartadmin.git
