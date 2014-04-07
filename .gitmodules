@@ -214,12 +214,6 @@
 [submodule "apps/organization"]
 	path = apps/organization
 	url = git@github.com:clearos/app-organization.git
-[submodule "apps/owncloud"]
-	path = apps/owncloud
-	url = git@github.com:clearos/app-owncloud.git
-[submodule "apps/owncloud_extension"]
-	path = apps/owncloud_extension
-	url = git@github.com:clearos/app-owncloud-extension.git
 [submodule "apps/password_policies"]
 	path = apps/password_policies
 	url = git@github.com:clearos/app-password-policies.git
