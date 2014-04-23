@@ -337,9 +337,9 @@
 [submodule "apps/tasks"]
 	path = apps/tasks
 	url = git@github.com:clearos/app-tasks.git
-[submodule "apps/tiki_wiki"]
-	path = apps/tiki_wiki
-	url = git@github.com:clearos/app-tiki-wiki.git
+[submodule "apps/tiki"]
+	path = apps/tiki
+	url = git@github.com:clearos/app-tiki.git
 [submodule "apps/transmission"]
 	path = apps/transmission
 	url = git@github.com:clearos/app-transmission.git
