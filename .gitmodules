@@ -421,3 +421,6 @@
 [submodule "themes/smartadmin"]
 	path = themes/smartadmin
 	url = git@github.com:clearos/theme-smartadmin.git
+[submodule "apps/tiki"]
+	path = apps/tiki
+	url = git@github.com:clearos/app-tiki.git
