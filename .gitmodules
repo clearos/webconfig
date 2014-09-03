@@ -421,6 +421,3 @@
 [submodule "apps/tiki"]
 	path = apps/tiki
 	url = git@github.com:clearos/app-tiki.git
-[submodule "apps/bmbackup"]
-	path = apps/bmbackup
-	url = git@github.com:mercycorps/bmbackup.git
