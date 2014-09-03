@@ -418,6 +418,3 @@
 [submodule "apps/tiki"]
 	path = apps/tiki
 	url = git@github.com:clearos/app-tiki.git
-[submodule "themes/AdminLTE"]
-	path = themes/AdminLTE
-	url = git@github.com:clearos/theme-admin-lte.git
