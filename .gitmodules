@@ -421,3 +421,6 @@
 [submodule "themes/AdminLTE"]
 	path = themes/AdminLTE
 	url = git@github.com:clearos/theme-admin-lte.git
+[submodule "themes/ClearOS-Admin"]
+	path = themes/ClearOS-Admin
+	url = git@github.com:clearos/theme-clearos-admin.git
