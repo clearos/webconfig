@@ -424,3 +424,9 @@
 [submodule "themes/ClearOS-Admin"]
 	path = themes/ClearOS-Admin
 	url = git@github.com:clearos/theme-clearos-admin.git
+[submodule "apps/support"]
+	path = apps/support
+	url = git@github.com:clearos/app-support.git
+[submodule "apps/mariadb"]
+	path = apps/mariadb
+	url = git@github.com:clearos/app-mariadb.git
