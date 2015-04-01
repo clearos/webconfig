@@ -430,3 +430,6 @@
 [submodule "apps/mariadb"]
 	path = apps/mariadb
 	url = git@github.com:clearos/app-mariadb.git
+[submodule "apps/samba_directory"]
+	path = apps/samba_directory
+	url = git@github.com:clearos/app-samba-directory.git
