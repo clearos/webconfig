@@ -18,7 +18,7 @@
 	url = git@github.com:clearos/app-antivirus.git
 [submodule "apps/backuppc"]
 	path = apps/backuppc
-	url = git@github.com:clearos/app-backuppc.git
+	url = git@github.com:clearos-contribs/app-backuppc.git
 [submodule "apps/bandwidth"]
 	path = apps/bandwidth
 	url = git@github.com:clearos/app-bandwidth.git
@@ -312,7 +312,7 @@
 	url = git@github.com:clearos/app-ssh-server.git
 [submodule "apps/static_vpn_basic"]
 	path = apps/static_vpn_basic
-	url = git@github.com:clearos/app-static-vpn-basic.git
+	url = git@github.com:clearos-contribs/app-static-vpn-basic.git
 [submodule "apps/storage"]
 	path = apps/storage
 	url = git@github.com:clearos/app-storage.git
@@ -339,10 +339,7 @@
 	url = git@github.com:clearos/app-tasks.git
 [submodule "apps/transmission"]
 	path = apps/transmission
-	url = git@github.com:clearos/app-transmission.git
-[submodule "apps/upnp"]
-	path = apps/upnp
-	url = git@github.com:clearos/app-upnp.git
+	url = git@github.com:clearos-contribs/app-transmission.git
 [submodule "apps/ups_server"]
 	path = apps/ups_server
 	url = git@github.com:clearos/app-ups-server.git
