@@ -16,9 +16,6 @@
 [submodule "apps/antivirus"]
 	path = apps/antivirus
 	url = git@github.com:clearos/app-antivirus.git
-[submodule "apps/backuppc"]
-	path = apps/backuppc
-	url = git@github.com:clearos/app-backuppc.git
 [submodule "apps/bandwidth"]
 	path = apps/bandwidth
 	url = git@github.com:clearos/app-bandwidth.git
@@ -154,9 +151,6 @@
 [submodule "apps/mail_notification"]
 	path = apps/mail_notification
 	url = git@github.com:clearos/app-mail-notification.git
-[submodule "apps/mail_report"]
-	path = apps/mail_report
-	url = git@github.com:clearos/app-mail-report.git
 [submodule "apps/mail_retrieval"]
 	path = apps/mail_retrieval
 	url = git@github.com:clearos/app-mail-retrieval.git
@@ -292,9 +286,6 @@
 [submodule "apps/simple_mode"]
 	path = apps/simple_mode
 	url = git@github.com:clearos/app-simple-mode.git
-[submodule "apps/smart_monitor"]
-	path = apps/smart_monitor
-	url = git@github.com:clearos/app-smart-monitor.git
 [submodule "apps/smtp"]
 	path = apps/smtp
 	url = git@github.com:clearos/app-smtp.git
@@ -337,15 +328,6 @@
 [submodule "apps/tasks"]
 	path = apps/tasks
 	url = git@github.com:clearos/app-tasks.git
-[submodule "apps/transmission"]
-	path = apps/transmission
-	url = git@github.com:clearos/app-transmission.git
-[submodule "apps/upnp"]
-	path = apps/upnp
-	url = git@github.com:clearos/app-upnp.git
-[submodule "apps/ups_server"]
-	path = apps/ups_server
-	url = git@github.com:clearos/app-ups-server.git
 [submodule "apps/upstream_proxy"]
 	path = apps/upstream_proxy
 	url = git@github.com:clearos/app-upstream-proxy.git
@@ -391,15 +373,9 @@
 [submodule "themes/default"]
 	path = themes/default
 	url = git@github.com:clearos/theme-default.git
-[submodule "apps/ibvpn"]
-	path = apps/ibvpn
-	url = git@github.com:dsokoloski/clearos-ibvpn.git
 [submodule "apps/mobile_demo"]
 	path = apps/mobile_demo
 	url = git@github.com:dsokoloski/clearos-mobile-demo.git
-[submodule "apps/ether_wake"]
-	path = apps/ether_wake
-	url = git@github.com:dsokoloski/clearos-ether-wake.git
 [submodule "apps/webapp"]
 	path = apps/webapp
 	url = git@github.com:clearos/app-webapp.git
