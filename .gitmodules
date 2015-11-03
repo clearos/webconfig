@@ -1,6 +1,6 @@
 [submodule "framework"]
 	path = framework
-	url = git@github.com:clearos/framework.git
+	url = git@github.com:clearos/clearos-framework.git
 [submodule "apps/account_import"]
 	path = apps/account_import
 	url = git@github.com:clearos/app-account-import.git
@@ -16,9 +16,6 @@
 [submodule "apps/antivirus"]
 	path = apps/antivirus
 	url = git@github.com:clearos/app-antivirus.git
-[submodule "apps/backuppc"]
-	path = apps/backuppc
-	url = git@github.com:clearos-contribs/app-backuppc.git
 [submodule "apps/bandwidth"]
 	path = apps/bandwidth
 	url = git@github.com:clearos/app-bandwidth.git
