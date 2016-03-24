@@ -427,3 +427,6 @@
 [submodule "apps/samba_directory"]
 	path = apps/samba_directory
 	url = git@github.com:clearos/app-samba-directory.git
+[submodule "apps/attack_detector"]
+	path = apps/attack_detector
+	url = git@github.com:clearos/app-attack-detector.git
