@@ -304,9 +304,6 @@
 [submodule "apps/ssh_server"]
 	path = apps/ssh_server
 	url = git@github.com:clearos/app-ssh-server.git
-[submodule "apps/static_vpn_basic"]
-	path = apps/static_vpn_basic
-	url = git@github.com:clearos-contribs/app-static-vpn-basic.git
 [submodule "apps/storage"]
 	path = apps/storage
 	url = git@github.com:clearos/app-storage.git
@@ -331,9 +328,6 @@
 [submodule "apps/tasks"]
 	path = apps/tasks
 	url = git@github.com:clearos/app-tasks.git
-[submodule "apps/transmission"]
-	path = apps/transmission
-	url = git@github.com:clearos-contribs/app-transmission.git
 [submodule "apps/ups_server"]
 	path = apps/ups_server
 	url = git@github.com:clearos/app-ups-server.git
