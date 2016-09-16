@@ -421,3 +421,6 @@
 [submodule "apps/attack_detector"]
 	path = apps/attack_detector
 	url = git@github.com:clearos/app-attack-detector.git
+[submodule "apps/redwood_content_filter"]
+	path = apps/redwood_content_filter
+	url = git@github.com:clearos/app-redwood-content-filter.git
