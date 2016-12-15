@@ -424,3 +424,6 @@
 [submodule "apps/redwood_content_filter"]
 	path = apps/redwood_content_filter
 	url = git@github.com:clearos/app-redwood-content-filter.git
+[submodule "apps/kopano_extension"]
+	path = apps/kopano_extension
+	url = git@github.com:clearos/app-kopano-extension.git
