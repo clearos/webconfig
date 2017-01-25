@@ -427,3 +427,6 @@
 [submodule "apps/kopano_extension"]
 	path = apps/kopano_extension
 	url = git@github.com:clearos/app-kopano-extension.git
+[submodule "apps/nginx"]
+	path = apps/nginx
+	url = git@github.com:/clearos/app-nginx.git
