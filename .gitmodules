@@ -166,9 +166,6 @@
 [submodule "apps/marketplace"]
 	path = apps/marketplace
 	url = git@github.com:clearos/app-marketplace.git
-[submodule "apps/mdns"]
-	path = apps/mdns
-	url = git@github.com:clearos/app-mdns.git
 [submodule "apps/mode"]
 	path = apps/mode
 	url = git@github.com:clearos/app-mode.git
@@ -184,9 +181,6 @@
 [submodule "apps/network"]
 	path = apps/network
 	url = git@github.com:clearos/app-network.git
-[submodule "apps/network_detail_report"]
-	path = apps/network_detail_report
-	url = git@github.com:clearos/app-network-detail-report.git
 [submodule "apps/network_report"]
 	path = apps/network_report
 	url = git@github.com:clearos/app-network-report.git
@@ -328,9 +322,6 @@
 [submodule "apps/tasks"]
 	path = apps/tasks
 	url = git@github.com:clearos/app-tasks.git
-[submodule "apps/ups_server"]
-	path = apps/ups_server
-	url = git@github.com:clearos/app-ups-server.git
 [submodule "apps/upstream_proxy"]
 	path = apps/upstream_proxy
 	url = git@github.com:clearos/app-upstream-proxy.git
@@ -352,9 +343,6 @@
 [submodule "apps/users"]
 	path = apps/users
 	url = git@github.com:clearos/app-users.git
-[submodule "apps/virtualbox"]
-	path = apps/virtualbox
-	url = git@github.com:clearos/app-virtualbox.git
 [submodule "apps/web_access_control"]
 	path = apps/web_access_control
 	url = git@github.com:clearos/app-web-access-control.git
@@ -388,18 +376,9 @@
 [submodule "apps/webapp"]
 	path = apps/webapp
 	url = git@github.com:clearos/app-webapp.git
-[submodule "apps/joomla"]
-	path = apps/joomla
-	url = git@github.com:clearos/app-joomla.git
 [submodule "apps/roundcubemail"]
 	path = apps/roundcubemail
 	url = git@github.com:bchambers/app-roundcubemail.git
-[submodule "apps/wordpress"]
-	path = apps/wordpress
-	url = git@github.com:clearos/app-wordpress.git
-[submodule "apps/appfirst"]
-	path = apps/appfirst
-	url = git@github.com:clearos/app-appfirst.git
 [submodule "apps/tiki"]
 	path = apps/tiki
 	url = git@github.com:clearos/app-tiki.git
