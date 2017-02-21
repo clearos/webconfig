@@ -151,9 +151,6 @@
 [submodule "apps/mail_notification"]
 	path = apps/mail_notification
 	url = git@github.com:clearos/app-mail-notification.git
-[submodule "apps/mail_report"]
-	path = apps/mail_report
-	url = git@github.com:clearos/app-mail-report.git
 [submodule "apps/mail_retrieval"]
 	path = apps/mail_retrieval
 	url = git@github.com:clearos/app-mail-retrieval.git
