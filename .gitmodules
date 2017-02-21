@@ -169,9 +169,6 @@
 [submodule "apps/multiwan"]
 	path = apps/multiwan
 	url = git@github.com:clearos/app-multiwan.git
-[submodule "apps/mysql"]
-	path = apps/mysql
-	url = git@github.com:clearos/app-mysql.git
 [submodule "apps/nat_firewall"]
 	path = apps/nat_firewall
 	url = git@github.com:clearos/app-nat-firewall.git
