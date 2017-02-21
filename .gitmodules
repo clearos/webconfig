@@ -301,18 +301,12 @@
 [submodule "apps/suva"]
 	path = apps/suva
 	url = git@github.com:clearos/app-suva.git
-[submodule "apps/system_applications"]
-	path = apps/system_applications
-	url = git@github.com:clearos/app-system-applications.git
 [submodule "apps/system_database"]
 	path = apps/system_database
 	url = git@github.com:clearos/app-system-database.git
 [submodule "apps/system_report"]
 	path = apps/system_report
 	url = git@github.com:clearos/app-system-report.git
-[submodule "apps/system_services"]
-	path = apps/system_services
-	url = git@github.com:clearos/app-system-services.git
 [submodule "apps/tasks"]
 	path = apps/tasks
 	url = git@github.com:clearos/app-tasks.git
