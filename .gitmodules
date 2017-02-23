@@ -310,9 +310,6 @@
 [submodule "apps/tasks"]
 	path = apps/tasks
 	url = git@github.com:clearos/app-tasks.git
-[submodule "apps/upstream_proxy"]
-	path = apps/upstream_proxy
-	url = git@github.com:clearos/app-upstream-proxy.git
 [submodule "apps/user_certificates"]
 	path = apps/user_certificates
 	url = git@github.com:clearos/app-user-certificates.git
