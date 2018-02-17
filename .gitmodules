@@ -394,3 +394,6 @@
 [submodule "apps/nginx"]
 	path = apps/nginx
 	url = git@github.com:/clearos/app-nginx.git
+[submodule "apps/docker"]
+	path = apps/docker
+	url = git@github.com:clearos/app-docker.git
